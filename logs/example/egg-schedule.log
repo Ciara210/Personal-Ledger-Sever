@@ -1,0 +1,51 @@
+2023-05-24 04:29:58,849 INFO 64282 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86401155ms at 2023-05-25 04:30:00.004
+2023-05-24 04:29:58,852 INFO 64303 [Job#168489899884430594754728894583] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2023-05-24 04:29:58,860 INFO 64303 [-/127.0.0.1/-/8ms SCHEDULE /__schedule?path=/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [Job#168489899884430594754728894583] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 6ms. 
+2023-05-24 21:29:57,669 INFO 69173 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25202333ms at 2023-05-25 04:30:00.002
+2023-05-24 21:29:57,669 INFO 69173 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 9002331ms at 2023-05-25 00:00:00.000
+2023-05-24 21:29:57,669 INFO 69173 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9003331ms at 2023-05-25 00:00:01.000
+2023-05-24 21:29:57,531 INFO 69192 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-24 21:29:57,531 INFO 69192 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-24 21:29:57,531 INFO 69192 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 11:41:18,001 INFO 82715 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 60522001ms at 2023-05-26 04:30:00.002
+2023-05-25 11:41:18,001 INFO 82715 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 44321999ms at 2023-05-26 00:00:00.000
+2023-05-25 11:41:18,001 INFO 82715 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 44322999ms at 2023-05-26 00:00:01.000
+2023-05-25 11:41:17,856 INFO 82734 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 11:41:17,856 INFO 82734 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 11:41:17,856 INFO 82734 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 15:53:18,493 INFO 90398 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 15:53:18,493 INFO 90398 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 15:53:18,493 INFO 90398 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 15:55:12,270 INFO 90576 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45287732ms at 2023-05-26 04:30:00.002
+2023-05-25 15:55:12,270 INFO 90576 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 29087730ms at 2023-05-26 00:00:00.000
+2023-05-25 15:55:12,270 INFO 90576 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 29088730ms at 2023-05-26 00:00:01.000
+2023-05-25 15:55:12,156 INFO 90595 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 15:55:12,156 INFO 90595 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 15:55:12,156 INFO 90595 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 15:56:44,918 INFO 90699 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 15:56:44,918 INFO 90699 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 15:56:44,918 INFO 90699 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 15:56:50,528 INFO 90805 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45189473ms at 2023-05-26 04:30:00.001
+2023-05-25 15:56:50,528 INFO 90805 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28989472ms at 2023-05-26 00:00:00.000
+2023-05-25 15:56:50,528 INFO 90805 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28990472ms at 2023-05-26 00:00:01.000
+2023-05-25 15:56:50,441 INFO 90825 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 15:56:50,441 INFO 90825 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 15:56:50,441 INFO 90825 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 16:01:05,510 INFO 91104 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 16:01:05,510 INFO 91104 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 16:01:05,510 INFO 91104 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 16:01:56,523 INFO 91257 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44883479ms at 2023-05-26 04:30:00.002
+2023-05-25 16:01:56,523 INFO 91257 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28683477ms at 2023-05-26 00:00:00.000
+2023-05-25 16:01:56,523 INFO 91257 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28684477ms at 2023-05-26 00:00:01.000
+2023-05-25 16:01:56,436 INFO 91277 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 16:01:56,436 INFO 91277 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 16:01:56,436 INFO 91277 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 16:06:34,765 INFO 91597 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 16:06:34,765 INFO 91597 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 16:06:34,765 INFO 91597 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-05-25 16:07:26,063 INFO 91756 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 44553938ms at 2023-05-26 04:30:00.001
+2023-05-25 16:07:26,063 INFO 91756 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28353937ms at 2023-05-26 00:00:00.000
+2023-05-25 16:07:26,064 INFO 91756 [Timer] /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28354937ms at 2023-05-26 00:00:01.001
+2023-05-25 16:07:25,978 INFO 91776 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-05-25 16:07:25,978 INFO 91776 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-05-25 16:07:25,978 INFO 91776 [egg-schedule]: register schedule /Users/stone_x/Desktop/Personal Ledger/backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

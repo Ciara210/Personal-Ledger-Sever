@@ -1,0 +1,792 @@
+2023-05-23 23:59:59,816 INFO 64282 [egg-logrotator] agent logger reload: got log-reload message
+2023-05-24 01:08:32,804 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 230221ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 01:19:19,813 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 606994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 01:35:24,592 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 924773ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 02:39:02,875 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 941784ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 02:54:49,303 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 906243ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 03:59:35,855 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 946512ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 04:29:47,837 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 911903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 04:47:50,128 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 1022302ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 05:04:48,448 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 978327ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 05:53:03,281 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 969574ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 06:23:13,916 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 910567ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 06:55:15,907 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 921522ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 07:25:32,208 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 916204ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 07:42:24,305 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 952079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 07:58:39,656 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 935368ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 08:29:54,601 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 974854ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 08:46:14,597 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 919993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 09:03:00,612 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 966009ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 09:34:17,502 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 976837ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 10:21:41,743 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 905677ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 10:39:11,129 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 1009368ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 11:28:30,035 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 983321ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 11:45:35,864 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 985792ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 12:02:29,417 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 973545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 12:59:23,528 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 973943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 14:11:56,907 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 471219ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 14:28:03,753 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 926816ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 14:44:47,286 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 943534ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 15:42:41,596 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 949284ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 15:58:38,968 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 917366ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 16:29:28,901 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 949889ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 16:48:23,477 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 1074562ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 18:24:42,270 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 1031961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 18:41:10,619 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 948343ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 18:57:16,063 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 925418ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 19:28:56,700 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 980546ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 19:38:20,552 ERROR 64282 nodejs.ClusterClientNoResponseError: client no response in 483856ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 64282
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-24 21:29:57,113 INFO 69173 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-24 21:29:57,117 INFO 69173 [egg:core] dump config after load, 2ms
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-24 21:29:57,131 INFO 69173 [egg-watcher:agent] watcher start success
+2023-05-24 21:29:57,142 INFO 69173 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [558ms] - #0 Process Start
+                                           ▇▇▇▇▇▇ [86ms] - #1 Application Start
+                                           ▇ [3ms] - #2 Load Plugin
+                                           ▇ [5ms] - #3 Load Config
+                                           ▇ [0ms] - #4 Require(0) config/config.default.js
+                                           ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                           ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                           ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                           ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                           ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                           ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                           ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                           ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                           ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                           ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                           ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                           ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                           ▇ [0ms] - #17 Require(13) node_modules/egg-view-ejs/config/config.default.js
+                                           ▇ [0ms] - #18 Require(14) node_modules/egg-mysql/config/config.default.js
+                                           ▇ [0ms] - #19 Require(15) node_modules/egg-jwt/config/config.default.js
+                                           ▇ [0ms] - #20 Require(16) node_modules/egg-cors/config/config.default.js
+                                           ▇ [0ms] - #21 Require(17) node_modules/egg/config/config.default.js
+                                            ▇ [0ms] - #22 Require(18) config/config.default.js
+                                            ▇ [0ms] - #23 Require(19) node_modules/egg-security/config/config.local.js
+                                            ▇ [0ms] - #24 Require(20) node_modules/egg-watcher/config/config.local.js
+                                            ▇ [0ms] - #25 Require(21) node_modules/egg-view/config/config.local.js
+                                            ▇ [0ms] - #26 Require(22) node_modules/egg-view-ejs/config/config.local.js
+                                            ▇ [0ms] - #27 Require(23) node_modules/egg/config/config.local.js
+                                            ▇ [19ms] - #28 Load extend/agent.js
+                                            ▇ [0ms] - #29 Require(24) node_modules/egg-security/app/extend/agent.js
+                                            ▇ [17ms] - #30 Require(25) node_modules/egg-schedule/app/extend/agent.js
+                                             ▇ [0ms] - #31 Require(26) node_modules/egg-logrotator/app/extend/agent.js
+                                             ▇ [14ms] - #32 Load extend/context.js
+                                             ▇ [4ms] - #33 Require(27) node_modules/egg-security/app/extend/context.js
+                                              ▇ [1ms] - #34 Require(28) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [0ms] - #35 Require(29) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [5ms] - #36 Require(30) node_modules/egg-multipart/app/extend/context.js
+                                              ▇ [1ms] - #37 Require(31) node_modules/egg-view/app/extend/context.js
+                                              ▇ [1ms] - #38 Require(32) node_modules/egg/app/extend/context.js
+                                              ▇ [11ms] - #39 Load agent.js
+                                              ▇ [1ms] - #40 Require(33) node_modules/egg-security/agent.js
+                                              ▇ [0ms] - #41 Require(34) node_modules/egg-onerror/agent.js
+                                              ▇ [1ms] - #42 Require(35) node_modules/egg-watcher/agent.js
+                                              ▇ [1ms] - #43 Require(36) node_modules/egg-schedule/agent.js
+                                              ▇ [3ms] - #44 Require(37) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg-logrotator/agent.js
+                                               ▇ [5ms] - #46 Require(39) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #47 Require(40) node_modules/egg/agent.js
+                                               ▇ [17ms] - #48 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                               ▇ [11ms] - #49 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                               ▇▇ [26ms] - #50 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-24 21:29:57,142 INFO 69173 [egg:core] dump config after ready, 2ms
+2023-05-25 11:41:17,417 INFO 82715 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 11:41:17,420 INFO 82715 [egg:core] dump config after load, 2ms
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 11:41:17,434 INFO 82715 [egg-watcher:agent] watcher start success
+2023-05-25 11:41:17,446 INFO 82715 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [601ms] - #0 Process Start
+                                           ▇▇▇▇▇▇ [85ms] - #1 Application Start
+                                            ▇ [3ms] - #2 Load Plugin
+                                            ▇ [6ms] - #3 Load Config
+                                            ▇ [0ms] - #4 Require(0) config/config.default.js
+                                            ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                            ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                            ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                            ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                            ▇ [1ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                            ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                            ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                            ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                            ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                            ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                            ▇ [1ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                            ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                            ▇ [0ms] - #17 Require(13) node_modules/egg-view-ejs/config/config.default.js
+                                            ▇ [0ms] - #18 Require(14) node_modules/egg-mysql/config/config.default.js
+                                            ▇ [0ms] - #19 Require(15) node_modules/egg-jwt/config/config.default.js
+                                            ▇ [0ms] - #20 Require(16) node_modules/egg-cors/config/config.default.js
+                                            ▇ [0ms] - #21 Require(17) node_modules/egg/config/config.default.js
+                                            ▇ [0ms] - #22 Require(18) config/config.default.js
+                                            ▇ [0ms] - #23 Require(19) node_modules/egg-security/config/config.local.js
+                                            ▇ [0ms] - #24 Require(20) node_modules/egg-watcher/config/config.local.js
+                                            ▇ [0ms] - #25 Require(21) node_modules/egg-view/config/config.local.js
+                                            ▇ [0ms] - #26 Require(22) node_modules/egg-view-ejs/config/config.local.js
+                                            ▇ [0ms] - #27 Require(23) node_modules/egg/config/config.local.js
+                                            ▇ [19ms] - #28 Load extend/agent.js
+                                            ▇ [1ms] - #29 Require(24) node_modules/egg-security/app/extend/agent.js
+                                            ▇ [17ms] - #30 Require(25) node_modules/egg-schedule/app/extend/agent.js
+                                             ▇ [0ms] - #31 Require(26) node_modules/egg-logrotator/app/extend/agent.js
+                                              ▇ [14ms] - #32 Load extend/context.js
+                                              ▇ [4ms] - #33 Require(27) node_modules/egg-security/app/extend/context.js
+                                              ▇ [1ms] - #34 Require(28) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [1ms] - #35 Require(29) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [6ms] - #36 Require(30) node_modules/egg-multipart/app/extend/context.js
+                                              ▇ [1ms] - #37 Require(31) node_modules/egg-view/app/extend/context.js
+                                               ▇ [0ms] - #38 Require(32) node_modules/egg/app/extend/context.js
+                                               ▇ [10ms] - #39 Load agent.js
+                                               ▇ [0ms] - #40 Require(33) node_modules/egg-security/agent.js
+                                               ▇ [0ms] - #41 Require(34) node_modules/egg-onerror/agent.js
+                                               ▇ [2ms] - #42 Require(35) node_modules/egg-watcher/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-schedule/agent.js
+                                               ▇ [3ms] - #44 Require(37) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg-logrotator/agent.js
+                                               ▇ [4ms] - #46 Require(39) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #47 Require(40) node_modules/egg/agent.js
+                                                ▇ [16ms] - #48 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                                ▇ [10ms] - #49 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                                ▇ [25ms] - #50 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 11:41:17,446 INFO 82715 [egg:core] dump config after ready, 2ms
+2023-05-25 12:41:13,434 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 615300ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 12:57:38,741 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 945277ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 13:13:58,296 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 939527ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 14:01:47,643 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 972713ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 14:17:58,881 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 931257ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 14:50:30,249 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 982920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 15:25:40,803 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 1017291ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 15:45:26,415 ERROR 82715 nodejs.ClusterClientNoResponseError: client no response in 285537ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/stone_x/Desktop/Personal Ledger/backend/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+name: "ClusterClientNoResponseError"
+pid: 82715
+hostname: Stone-xdeMacBook-Pro.local
+
+2023-05-25 15:53:18,106 INFO 90378 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 15:53:18,110 INFO 90378 [egg:core] dump config after load, 2ms
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 15:53:18,123 INFO 90378 [egg-watcher:agent] watcher start success
+2023-05-25 15:53:18,133 INFO 90378 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [575ms] - #0 Process Start
+                                           ▇▇▇▇▇▇ [80ms] - #1 Application Start
+                                            ▇ [3ms] - #2 Load Plugin
+                                            ▇ [5ms] - #3 Load Config
+                                            ▇ [0ms] - #4 Require(0) config/config.default.js
+                                            ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                            ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                            ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                            ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                            ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                            ▇ [1ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                            ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                            ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                            ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                            ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                            ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                            ▇ [1ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                            ▇ [0ms] - #17 Require(13) node_modules/egg-jwt/config/config.default.js
+                                            ▇ [0ms] - #18 Require(14) node_modules/egg-cors/config/config.default.js
+                                            ▇ [0ms] - #19 Require(15) node_modules/egg-mysql/config/config.default.js
+                                            ▇ [0ms] - #20 Require(16) node_modules/egg/config/config.default.js
+                                            ▇ [0ms] - #21 Require(17) config/config.default.js
+                                            ▇ [0ms] - #22 Require(18) node_modules/egg-security/config/config.local.js
+                                            ▇ [0ms] - #23 Require(19) node_modules/egg-watcher/config/config.local.js
+                                            ▇ [0ms] - #24 Require(20) node_modules/egg-view/config/config.local.js
+                                            ▇ [0ms] - #25 Require(21) node_modules/egg/config/config.local.js
+                                            ▇ [18ms] - #26 Load extend/agent.js
+                                            ▇ [1ms] - #27 Require(22) node_modules/egg-security/app/extend/agent.js
+                                            ▇ [16ms] - #28 Require(23) node_modules/egg-schedule/app/extend/agent.js
+                                             ▇ [1ms] - #29 Require(24) node_modules/egg-logrotator/app/extend/agent.js
+                                              ▇ [13ms] - #30 Load extend/context.js
+                                              ▇ [4ms] - #31 Require(25) node_modules/egg-security/app/extend/context.js
+                                              ▇ [1ms] - #32 Require(26) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [0ms] - #33 Require(27) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [6ms] - #34 Require(28) node_modules/egg-multipart/app/extend/context.js
+                                              ▇ [0ms] - #35 Require(29) node_modules/egg-view/app/extend/context.js
+                                              ▇ [1ms] - #36 Require(30) node_modules/egg/app/extend/context.js
+                                               ▇ [11ms] - #37 Load agent.js
+                                               ▇ [1ms] - #38 Require(31) node_modules/egg-security/agent.js
+                                               ▇ [0ms] - #39 Require(32) node_modules/egg-onerror/agent.js
+                                               ▇ [1ms] - #40 Require(33) node_modules/egg-watcher/agent.js
+                                               ▇ [1ms] - #41 Require(34) node_modules/egg-schedule/agent.js
+                                               ▇ [3ms] - #42 Require(35) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-logrotator/agent.js
+                                               ▇ [5ms] - #44 Require(37) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg/agent.js
+                                                ▇ [16ms] - #46 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                                ▇ [11ms] - #47 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                                ▇ [23ms] - #48 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 15:53:18,133 INFO 90378 [egg:core] dump config after ready, 2ms
+2023-05-25 15:55:11,770 INFO 90576 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 15:55:11,773 INFO 90576 [egg:core] dump config after load, 2ms
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 15:55:11,786 INFO 90576 [egg-watcher:agent] watcher start success
+2023-05-25 15:55:11,796 INFO 90576 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [590ms] - #0 Process Start
+                                            ▇▇▇▇▇ [74ms] - #1 Application Start
+                                            ▇ [2ms] - #2 Load Plugin
+                                            ▇ [6ms] - #3 Load Config
+                                            ▇ [0ms] - #4 Require(0) config/config.default.js
+                                            ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                            ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                            ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                            ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                            ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                            ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                            ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                            ▇ [1ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                            ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                            ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                            ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                            ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                            ▇ [0ms] - #17 Require(13) node_modules/egg-jwt/config/config.default.js
+                                            ▇ [0ms] - #18 Require(14) node_modules/egg-cors/config/config.default.js
+                                            ▇ [1ms] - #19 Require(15) node_modules/egg-mysql/config/config.default.js
+                                             ▇ [0ms] - #20 Require(16) node_modules/egg/config/config.default.js
+                                             ▇ [0ms] - #21 Require(17) config/config.default.js
+                                             ▇ [0ms] - #22 Require(18) node_modules/egg-security/config/config.local.js
+                                             ▇ [0ms] - #23 Require(19) node_modules/egg-watcher/config/config.local.js
+                                             ▇ [0ms] - #24 Require(20) node_modules/egg-view/config/config.local.js
+                                             ▇ [0ms] - #25 Require(21) node_modules/egg/config/config.local.js
+                                             ▇ [17ms] - #26 Load extend/agent.js
+                                             ▇ [0ms] - #27 Require(22) node_modules/egg-security/app/extend/agent.js
+                                             ▇ [15ms] - #28 Require(23) node_modules/egg-schedule/app/extend/agent.js
+                                              ▇ [0ms] - #29 Require(24) node_modules/egg-logrotator/app/extend/agent.js
+                                              ▇ [11ms] - #30 Load extend/context.js
+                                              ▇ [4ms] - #31 Require(25) node_modules/egg-security/app/extend/context.js
+                                              ▇ [1ms] - #32 Require(26) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [0ms] - #33 Require(27) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [4ms] - #34 Require(28) node_modules/egg-multipart/app/extend/context.js
+                                               ▇ [1ms] - #35 Require(29) node_modules/egg-view/app/extend/context.js
+                                               ▇ [1ms] - #36 Require(30) node_modules/egg/app/extend/context.js
+                                               ▇ [9ms] - #37 Load agent.js
+                                               ▇ [0ms] - #38 Require(31) node_modules/egg-security/agent.js
+                                               ▇ [1ms] - #39 Require(32) node_modules/egg-onerror/agent.js
+                                               ▇ [1ms] - #40 Require(33) node_modules/egg-watcher/agent.js
+                                               ▇ [0ms] - #41 Require(34) node_modules/egg-schedule/agent.js
+                                               ▇ [3ms] - #42 Require(35) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-logrotator/agent.js
+                                               ▇ [4ms] - #44 Require(37) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg/agent.js
+                                                ▇ [15ms] - #46 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                                ▇ [10ms] - #47 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                                ▇ [23ms] - #48 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 15:55:11,796 INFO 90576 [egg:core] dump config after ready, 2ms
+2023-05-25 15:56:44,300 WARN 90576 [agent:development] reload worker because /Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js change
+2023-05-25 15:56:44,096 INFO 90576 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":71124039,"size":1275,"blocks":8,"atimeMs":1685026604057.4768,"mtimeMs":1685026604033.4004,"ctimeMs":1685026604033.4004,"birthtimeMs":1684505196973.2563,"atime":"2023-05-25T14:56:44.057Z","mtime":"2023-05-25T14:56:44.033Z","ctime":"2023-05-25T14:56:44.033Z","birthtime":"2023-05-19T14:06:36.973Z"},"remove":false,"isDirectory":false,"isFile":true}
+2023-05-25 15:56:50,052 INFO 90805 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 15:56:50,056 INFO 90805 [egg:core] dump config after load, 2ms
+2023-05-25 15:56:50,067 INFO 90805 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 15:56:50,068 INFO 90805 [egg-watcher:agent] watcher start success
+2023-05-25 15:56:50,080 INFO 90805 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [577ms] - #0 Process Start
+                                          ▇▇▇▇▇▇▇ [99ms] - #1 Application Start
+                                          ▇ [2ms] - #2 Load Plugin
+                                           ▇ [5ms] - #3 Load Config
+                                           ▇ [0ms] - #4 Require(0) config/config.default.js
+                                           ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                           ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                           ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                           ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                           ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                           ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                           ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                           ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                           ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                           ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                           ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                           ▇ [1ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                           ▇ [0ms] - #17 Require(13) node_modules/egg-jwt/config/config.default.js
+                                           ▇ [0ms] - #18 Require(14) node_modules/egg-cors/config/config.default.js
+                                           ▇ [0ms] - #19 Require(15) node_modules/egg-mysql/config/config.default.js
+                                           ▇ [0ms] - #20 Require(16) node_modules/egg/config/config.default.js
+                                           ▇ [0ms] - #21 Require(17) config/config.default.js
+                                           ▇ [0ms] - #22 Require(18) node_modules/egg-security/config/config.local.js
+                                           ▇ [0ms] - #23 Require(19) node_modules/egg-watcher/config/config.local.js
+                                           ▇ [0ms] - #24 Require(20) node_modules/egg-view/config/config.local.js
+                                           ▇ [0ms] - #25 Require(21) node_modules/egg/config/config.local.js
+                                           ▇▇▇ [48ms] - #26 Load extend/agent.js
+                                           ▇ [23ms] - #27 Require(22) node_modules/egg-security/app/extend/agent.js
+                                             ▇ [23ms] - #28 Require(23) node_modules/egg-schedule/app/extend/agent.js
+                                              ▇ [1ms] - #29 Require(24) node_modules/egg-logrotator/app/extend/agent.js
+                                              ▇ [5ms] - #30 Load extend/context.js
+                                              ▇ [1ms] - #31 Require(25) node_modules/egg-security/app/extend/context.js
+                                               ▇ [1ms] - #32 Require(26) node_modules/egg-jsonp/app/extend/context.js
+                                               ▇ [0ms] - #33 Require(27) node_modules/egg-i18n/app/extend/context.js
+                                               ▇ [2ms] - #34 Require(28) node_modules/egg-multipart/app/extend/context.js
+                                               ▇ [0ms] - #35 Require(29) node_modules/egg-view/app/extend/context.js
+                                               ▇ [0ms] - #36 Require(30) node_modules/egg/app/extend/context.js
+                                               ▇ [7ms] - #37 Load agent.js
+                                               ▇ [0ms] - #38 Require(31) node_modules/egg-security/agent.js
+                                               ▇ [1ms] - #39 Require(32) node_modules/egg-onerror/agent.js
+                                               ▇ [0ms] - #40 Require(33) node_modules/egg-watcher/agent.js
+                                               ▇ [1ms] - #41 Require(34) node_modules/egg-schedule/agent.js
+                                               ▇ [3ms] - #42 Require(35) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-logrotator/agent.js
+                                               ▇ [2ms] - #44 Require(37) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg/agent.js
+                                                ▇ [15ms] - #46 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                                ▇ [10ms] - #47 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                                ▇ [25ms] - #48 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 15:56:50,080 INFO 90805 [egg:core] dump config after ready, 2ms
+2023-05-25 16:01:04,809 WARN 90805 [agent:development] reload worker because /Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js change
+2023-05-25 16:01:04,606 INFO 90805 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":71124039,"size":1276,"blocks":8,"atimeMs":1685026864570.973,"mtimeMs":1685026864542.931,"ctimeMs":1685026864542.931,"birthtimeMs":1684505196973.2563,"atime":"2023-05-25T15:01:04.571Z","mtime":"2023-05-25T15:01:04.543Z","ctime":"2023-05-25T15:01:04.543Z","birthtime":"2023-05-19T14:06:36.973Z"},"remove":false,"isDirectory":false,"isFile":true}
+2023-05-25 16:01:56,020 INFO 91257 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 16:01:56,023 INFO 91257 [egg:core] dump config after load, 1ms
+2023-05-25 16:01:56,036 INFO 91257 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 16:01:56,036 INFO 91257 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 16:01:56,036 INFO 91257 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 16:01:56,037 INFO 91257 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 16:01:56,037 INFO 91257 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 16:01:56,037 INFO 91257 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 16:01:56,037 INFO 91257 [egg-watcher:agent] watcher start success
+2023-05-25 16:01:56,048 INFO 91257 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [571ms] - #0 Process Start
+                                            ▇▇▇▇▇ [77ms] - #1 Application Start
+                                            ▇ [3ms] - #2 Load Plugin
+                                            ▇ [6ms] - #3 Load Config
+                                            ▇ [0ms] - #4 Require(0) config/config.default.js
+                                            ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                            ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                            ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                            ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                            ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                            ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                            ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                            ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                            ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                            ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                            ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                            ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                            ▇ [0ms] - #17 Require(13) node_modules/egg-jwt/config/config.default.js
+                                            ▇ [0ms] - #18 Require(14) node_modules/egg-cors/config/config.default.js
+                                            ▇ [0ms] - #19 Require(15) node_modules/egg-mysql/config/config.default.js
+                                            ▇ [0ms] - #20 Require(16) node_modules/egg/config/config.default.js
+                                            ▇ [0ms] - #21 Require(17) config/config.default.js
+                                            ▇ [0ms] - #22 Require(18) node_modules/egg-security/config/config.local.js
+                                            ▇ [0ms] - #23 Require(19) node_modules/egg-watcher/config/config.local.js
+                                            ▇ [1ms] - #24 Require(20) node_modules/egg-view/config/config.local.js
+                                            ▇ [0ms] - #25 Require(21) node_modules/egg/config/config.local.js
+                                            ▇ [17ms] - #26 Load extend/agent.js
+                                            ▇ [1ms] - #27 Require(22) node_modules/egg-security/app/extend/agent.js
+                                             ▇ [15ms] - #28 Require(23) node_modules/egg-schedule/app/extend/agent.js
+                                              ▇ [1ms] - #29 Require(24) node_modules/egg-logrotator/app/extend/agent.js
+                                              ▇ [11ms] - #30 Load extend/context.js
+                                              ▇ [4ms] - #31 Require(25) node_modules/egg-security/app/extend/context.js
+                                              ▇ [1ms] - #32 Require(26) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [0ms] - #33 Require(27) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [5ms] - #34 Require(28) node_modules/egg-multipart/app/extend/context.js
+                                               ▇ [0ms] - #35 Require(29) node_modules/egg-view/app/extend/context.js
+                                               ▇ [1ms] - #36 Require(30) node_modules/egg/app/extend/context.js
+                                               ▇ [9ms] - #37 Load agent.js
+                                               ▇ [1ms] - #38 Require(31) node_modules/egg-security/agent.js
+                                               ▇ [0ms] - #39 Require(32) node_modules/egg-onerror/agent.js
+                                               ▇ [1ms] - #40 Require(33) node_modules/egg-watcher/agent.js
+                                               ▇ [0ms] - #41 Require(34) node_modules/egg-schedule/agent.js
+                                               ▇ [2ms] - #42 Require(35) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-logrotator/agent.js
+                                               ▇ [4ms] - #44 Require(37) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg/agent.js
+                                               ▇ [16ms] - #46 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                               ▇ [10ms] - #47 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                               ▇ [24ms] - #48 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 16:01:56,048 INFO 91257 [egg:core] dump config after ready, 1ms
+2023-05-25 16:06:34,198 WARN 91257 [agent:development] reload worker because /Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js change
+2023-05-25 16:06:33,994 INFO 91257 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/stone_x/Desktop/Personal Ledger/backend/config/config.default.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":71124039,"size":1277,"blocks":8,"atimeMs":1685027193955.904,"mtimeMs":1685027193930.3867,"ctimeMs":1685027193930.3867,"birthtimeMs":1684505196973.2563,"atime":"2023-05-25T15:06:33.956Z","mtime":"2023-05-25T15:06:33.930Z","ctime":"2023-05-25T15:06:33.930Z","birthtime":"2023-05-19T14:06:36.973Z"},"remove":false,"isDirectory":false,"isFile":true}
+2023-05-25 16:07:20,021 INFO 91257 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/stone_x/Desktop/Personal Ledger/backend/app/view","remove":true,"isDirectory":true,"isFile":false}
+2023-05-25 16:07:25,568 INFO 91756 [egg:logger] init all loggers with options: {"dir":"/Users/stone_x/Desktop/Personal Ledger/backend/logs/example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"enableFastContextLogger":false,"type":"agent","localStorage":{"enabled":false,"_onPropagate":null}}
+2023-05-25 16:07:25,572 INFO 91756 [egg:core] dump config after load, 2ms
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: ["/Users/stone_x/Desktop/Personal Ledger/backend/app","/Users/stone_x/Desktop/Personal Ledger/backend/config","/Users/stone_x/Desktop/Personal Ledger/backend/mocks","/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy","/Users/stone_x/Desktop/Personal Ledger/backend/app.js"]
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app"
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/config"
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks"
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/mocks_proxy"
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher] Start watching: "/Users/stone_x/Desktop/Personal Ledger/backend/app.js"
+2023-05-25 16:07:25,586 INFO 91756 [egg-watcher:agent] watcher start success
+2023-05-25 16:07:25,599 INFO 91756 egg start timeline:
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ [574ms] - #0 Process Start
+                                           ▇▇▇▇▇▇ [80ms] - #1 Application Start
+                                            ▇ [2ms] - #2 Load Plugin
+                                            ▇ [5ms] - #3 Load Config
+                                            ▇ [0ms] - #4 Require(0) config/config.default.js
+                                            ▇ [0ms] - #5 Require(1) node_modules/egg-session/config/config.default.js
+                                            ▇ [0ms] - #6 Require(2) node_modules/egg-security/config/config.default.js
+                                            ▇ [0ms] - #7 Require(3) node_modules/egg-jsonp/config/config.default.js
+                                            ▇ [0ms] - #8 Require(4) node_modules/egg-onerror/config/config.default.js
+                                            ▇ [0ms] - #9 Require(5) node_modules/egg-i18n/config/config.default.js
+                                            ▇ [0ms] - #10 Require(6) node_modules/egg-watcher/config/config.default.js
+                                            ▇ [0ms] - #11 Require(7) node_modules/egg-schedule/config/config.default.js
+                                            ▇ [0ms] - #12 Require(8) node_modules/egg-multipart/config/config.default.js
+                                            ▇ [0ms] - #13 Require(9) node_modules/egg-development/config/config.default.js
+                                            ▇ [0ms] - #14 Require(10) node_modules/egg-logrotator/config/config.default.js
+                                            ▇ [0ms] - #15 Require(11) node_modules/egg-static/config/config.default.js
+                                            ▇ [0ms] - #16 Require(12) node_modules/egg-view/config/config.default.js
+                                            ▇ [0ms] - #17 Require(13) node_modules/egg-jwt/config/config.default.js
+                                            ▇ [0ms] - #18 Require(14) node_modules/egg-cors/config/config.default.js
+                                            ▇ [0ms] - #19 Require(15) node_modules/egg-mysql/config/config.default.js
+                                            ▇ [1ms] - #20 Require(16) node_modules/egg/config/config.default.js
+                                            ▇ [0ms] - #21 Require(17) config/config.default.js
+                                            ▇ [0ms] - #22 Require(18) node_modules/egg-security/config/config.local.js
+                                            ▇ [0ms] - #23 Require(19) node_modules/egg-watcher/config/config.local.js
+                                            ▇ [0ms] - #24 Require(20) node_modules/egg-view/config/config.local.js
+                                            ▇ [0ms] - #25 Require(21) node_modules/egg/config/config.local.js
+                                            ▇ [16ms] - #26 Load extend/agent.js
+                                            ▇ [0ms] - #27 Require(22) node_modules/egg-security/app/extend/agent.js
+                                            ▇ [14ms] - #28 Require(23) node_modules/egg-schedule/app/extend/agent.js
+                                             ▇ [1ms] - #29 Require(24) node_modules/egg-logrotator/app/extend/agent.js
+                                             ▇ [13ms] - #30 Load extend/context.js
+                                             ▇ [4ms] - #31 Require(25) node_modules/egg-security/app/extend/context.js
+                                              ▇ [0ms] - #32 Require(26) node_modules/egg-jsonp/app/extend/context.js
+                                              ▇ [0ms] - #33 Require(27) node_modules/egg-i18n/app/extend/context.js
+                                              ▇ [5ms] - #34 Require(28) node_modules/egg-multipart/app/extend/context.js
+                                              ▇ [1ms] - #35 Require(29) node_modules/egg-view/app/extend/context.js
+                                              ▇ [0ms] - #36 Require(30) node_modules/egg/app/extend/context.js
+                                              ▇ [9ms] - #37 Load agent.js
+                                              ▇ [0ms] - #38 Require(31) node_modules/egg-security/agent.js
+                                              ▇ [0ms] - #39 Require(32) node_modules/egg-onerror/agent.js
+                                              ▇ [2ms] - #40 Require(33) node_modules/egg-watcher/agent.js
+                                               ▇ [0ms] - #41 Require(34) node_modules/egg-schedule/agent.js
+                                               ▇ [3ms] - #42 Require(35) node_modules/egg-development/agent.js
+                                               ▇ [0ms] - #43 Require(36) node_modules/egg-logrotator/agent.js
+                                               ▇ [4ms] - #44 Require(37) node_modules/egg-mysql/agent.js
+                                               ▇ [0ms] - #45 Require(38) node_modules/egg/agent.js
+                                               ▇ [16ms] - #46 Before Start in node_modules/egg-watcher/lib/init.js:15:14
+                                               ▇ [11ms] - #47 Before Start in node_modules/egg-schedule/agent.js:12:9
+                                               ▇ [26ms] - #48 Before Start in node_modules/egg-development/agent.js:12:9
+2023-05-25 16:07:25,600 INFO 91756 [egg:core] dump config after ready, 2ms
